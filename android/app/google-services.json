@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946623811810",
+    "project_id": "chatapp-eddd6",
+    "storage_bucket": "chatapp-eddd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946623811810:android:bd90c34f3d21d4ec9f8ebb",
+        "android_client_info": {
+          "package_name": "com.example.madprojectlinkupapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIrO75p8kWnwP1yriLjPGgOivjQymLQEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
