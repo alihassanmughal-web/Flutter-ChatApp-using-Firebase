@@ -5,6 +5,11 @@ A real-time chat application built using **Flutter** and **Firebase Firestore**.
 
 ---
 
+
+## How to Run:
+     * Enable Firebase in your Flutter Project
+     * Generate API of your AI and check its model to edit
+     * Connect web android and iOS with Firestore Firebase to run on respective platform
 ## 📁 Features
 
 * 🔐 **User Authentication**
