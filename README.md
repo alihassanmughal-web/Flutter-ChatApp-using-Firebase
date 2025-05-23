@@ -114,7 +114,7 @@ Example: `ALIHASSAN_AMNAKANWAL13`
  ## 🤝 Contributors
 
 * Ali Hassan – [mughalalihassan693@gmail.com](mailto:mughalalihassan693@gmail.com)
-* Muhammad Usman – [usman18902@gmail.com](mailto:usman1890s@gmail.com)
+* Muhammad Usman – [usman1890s@gmail.com](mailto:usman1890s@gmail.com)
 
 
 ## 📄 License
